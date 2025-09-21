@@ -33,24 +33,6 @@ Check the live site here: [Email Spam Detector Live](https://share.streamlit.io/
 📜 requirements.txt
 📜 README.md
 
-🎯 Future Improvements
-
-Add more ML models (Logistic Regression, SVM, etc.) for better accuracy
-
-Deploy online (Streamlit Cloud / Heroku)
-
-Enhance UI/UX for better user experience
-
-Add advanced email preprocessing and NLP techniques
-
-📸 Demo Screenshot
-
-(Add screenshot or GIF of your app here)
-
-📜 License
-
-This project is open-source and free to use.
-
 ## 🚀 How to Run Locally
 1. Clone the repository:  
 ```bash
