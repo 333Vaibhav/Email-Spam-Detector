@@ -40,7 +40,7 @@ Check the live site here: [Email Spam Detector Live](https://share.streamlit.io/
 - Add advanced email preprocessing and NLP techniques  
 
 ## 📸 Demo Screenshot
-![Demo Screenshot](demo.png)
+![Demo Screenshot](Demo.png)
 
 ## 📜 License
 This project is **open-source** and free to use.
