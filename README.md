@@ -1,6 +1,6 @@
 # 📧 Email Spam Detector
 
-![Python](https://img.shields.io/badge/Python-3.10-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-App-orange) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-green)
+![Python](https://img.shields.io/badge/Python-3.10-blue) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-green) ![Streamlit](https://img.shields.io/badge/Streamlit-App-orange) 
 
 ## 🌟 Project Overview
 **Email Spam Detector** is a smart and interactive web app built using **Python, Scikit-learn, and Streamlit**.  
@@ -33,24 +33,6 @@ Check the live site here: [Email Spam Detector Live](https://share.streamlit.io/
 📜 requirements.txt
 📜 README.md
 
-## 🚀 How to Run Locally
-1. Clone the repository:  
-```bash
-git clone https://github.com/333Vaibhav/email-spam-detector.git
-cd email-spam-detector
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Run the Streamlit app:
-
-streamlit run spam_detector_app.py
-
-Open your browser at:
-
-http://localhost:8501
-
 🎯 Future Improvements
 
 Add more ML models (Logistic Regression, SVM, etc.) for better accuracy
@@ -61,13 +43,35 @@ Enhance UI/UX for better user experience
 
 Add advanced email preprocessing and NLP techniques
 
-## 📸 Demo Screenshot
-![Demo Screenshot](demo.png)
+📸 Demo Screenshot
+
+(Add screenshot or GIF of your app here)
 
 📜 License
 
 This project is open-source and free to use.
 
-✨ Author
-Vaibhav Rathod
-LinkedIn | GitHub
+## 🚀 How to Run Locally
+1. Clone the repository:  
+```bash
+git clone https://github.com/333Vaibhav/email-spam-detector.git
+cd email-spam-detector
+Install dependencies:
+
+pip install -r requirements.txt
+Run the Streamlit app:
+streamlit run spam_detector_app.py
+Open your browser at:
+http://localhost:8501
+
+## 🚀 Future Improvements
+- Add more ML models (Logistic Regression, SVM, etc.) for better accuracy  
+- Deploy online (Streamlit Cloud / Heroku)  
+- Enhance UI/UX for better user experience  
+- Add advanced email preprocessing and NLP techniques  
+
+## 📸 Demo Screenshot
+![Demo Screenshot](demo.png)  
+
+## 📜 License
+This project is **open-source** and free to use.
