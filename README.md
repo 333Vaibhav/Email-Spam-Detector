@@ -26,12 +26,12 @@ Check the live site here: [Email Spam Detector Live](https://share.streamlit.io/
 
 ## 📂 Project Structure
 📦 email-spam-detector
- ┣ 📜 spam_detector_app.py
- ┣ 📜 spam_classifier_nb_joblib.pkl
- ┣ 📜 vectorizer.pkl
- ┣ 📜 spam_excel_file.xlsx
- ┣ 📜 requirements.txt
- ┗ 📜 README.md
+📜 spam_detector_app.py
+📜 spam_classifier_nb_joblib.pkl
+📜 vectorizer.pkl
+📜 spam_excel_file.xlsx
+📜 requirements.txt
+📜 README.md
 
 ## 🚀 How to Run Locally
 1. Clone the repository:  
