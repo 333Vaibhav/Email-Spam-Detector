@@ -33,7 +33,7 @@ Check the live site here: [Email Spam Detector Live](https://share.streamlit.io/
 📜 requirements.txt
 📜 README.md
 
-##🎯 Future Improvements
+## 🎯 Future Improvements
 - Add more ML models (Logistic Regression, SVM, etc.) for better accuracy  
 - Deploy online (Streamlit Cloud / Heroku)  
 - Enhance UI/UX for better user experience  
